@@ -73,7 +73,6 @@ a {
 }
 
 /* 4px 為 1單位 */
-
 .ml-1 {
   margin-left: 4px;
 }
@@ -166,7 +165,7 @@ a {
 }
 
 .nav {
-  padding: 52px 0;
+  padding: 40px 0;
 }
 
 .nav a {
@@ -180,6 +179,10 @@ a {
 .banner {
   padding-top: 72px;
   padding-bottom: 32px;
+}
+
+.banner-intro {
+  width: 49.1%;
 }
 
 .btn {
